@@ -1,5 +1,5 @@
 import datetime
-from app.cafe.errors import (
+from app.errors import (
     NotVaccinatedError,
     OutdatedVaccineError,
     NotWearingMaskError
